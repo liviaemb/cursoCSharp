@@ -1,0 +1,8 @@
+C:\CursoC#\calculoArea\calculoArea\bin\Debug\calculoArea.exe.config
+C:\CursoC#\calculoArea\calculoArea\bin\Debug\calculoArea.exe
+C:\CursoC#\calculoArea\calculoArea\bin\Debug\calculoArea.pdb
+C:\CursoC#\calculoArea\calculoArea\obj\Debug\calculoArea.csproj.AssemblyReference.cache
+C:\CursoC#\calculoArea\calculoArea\obj\Debug\calculoArea.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\calculoArea\calculoArea\obj\Debug\calculoArea.csproj.CoreCompileInputs.cache
+C:\CursoC#\calculoArea\calculoArea\obj\Debug\calculoArea.exe
+C:\CursoC#\calculoArea\calculoArea\obj\Debug\calculoArea.pdb

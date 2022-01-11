@@ -1,0 +1,8 @@
+C:\CursoC#\mediaPonderada1\mediaPonderada1\bin\Debug\mediaPonderada1.exe.config
+C:\CursoC#\mediaPonderada1\mediaPonderada1\bin\Debug\mediaPonderada1.exe
+C:\CursoC#\mediaPonderada1\mediaPonderada1\bin\Debug\mediaPonderada1.pdb
+C:\CursoC#\mediaPonderada1\mediaPonderada1\obj\Debug\mediaPonderada1.csproj.AssemblyReference.cache
+C:\CursoC#\mediaPonderada1\mediaPonderada1\obj\Debug\mediaPonderada1.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\mediaPonderada1\mediaPonderada1\obj\Debug\mediaPonderada1.csproj.CoreCompileInputs.cache
+C:\CursoC#\mediaPonderada1\mediaPonderada1\obj\Debug\mediaPonderada1.exe
+C:\CursoC#\mediaPonderada1\mediaPonderada1\obj\Debug\mediaPonderada1.pdb

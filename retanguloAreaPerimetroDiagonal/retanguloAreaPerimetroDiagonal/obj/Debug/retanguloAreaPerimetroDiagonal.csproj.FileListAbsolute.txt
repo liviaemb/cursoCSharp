@@ -1,0 +1,7 @@
+C:\CursoC#\retanguloAreaPerimetroDiagonal\retanguloAreaPerimetroDiagonal\bin\Debug\retanguloAreaPerimetroDiagonal.exe.config
+C:\CursoC#\retanguloAreaPerimetroDiagonal\retanguloAreaPerimetroDiagonal\bin\Debug\retanguloAreaPerimetroDiagonal.exe
+C:\CursoC#\retanguloAreaPerimetroDiagonal\retanguloAreaPerimetroDiagonal\bin\Debug\retanguloAreaPerimetroDiagonal.pdb
+C:\CursoC#\retanguloAreaPerimetroDiagonal\retanguloAreaPerimetroDiagonal\obj\Debug\retanguloAreaPerimetroDiagonal.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\retanguloAreaPerimetroDiagonal\retanguloAreaPerimetroDiagonal\obj\Debug\retanguloAreaPerimetroDiagonal.csproj.CoreCompileInputs.cache
+C:\CursoC#\retanguloAreaPerimetroDiagonal\retanguloAreaPerimetroDiagonal\obj\Debug\retanguloAreaPerimetroDiagonal.exe
+C:\CursoC#\retanguloAreaPerimetroDiagonal\retanguloAreaPerimetroDiagonal\obj\Debug\retanguloAreaPerimetroDiagonal.pdb

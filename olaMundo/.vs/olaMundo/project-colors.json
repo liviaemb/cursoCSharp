@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "401b0c67-ba9d-4115-99ae-bcc208a0cacd": {
+      "ProjectGuid": "401b0c67-ba9d-4115-99ae-bcc208a0cacd",
+      "DisplayName": "olaMundo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02b48a47-05bb-4184-872c-9509b18b99d2": {
+      "ProjectGuid": "02b48a47-05bb-4184-872c-9509b18b99d2",
+      "DisplayName": "consumoCombustivel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

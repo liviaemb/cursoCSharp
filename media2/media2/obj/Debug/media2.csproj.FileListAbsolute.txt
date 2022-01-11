@@ -1,0 +1,8 @@
+C:\CursoC#\media2\media2\bin\Debug\media2.exe.config
+C:\CursoC#\media2\media2\bin\Debug\media2.exe
+C:\CursoC#\media2\media2\bin\Debug\media2.pdb
+C:\CursoC#\media2\media2\obj\Debug\media2.csproj.AssemblyReference.cache
+C:\CursoC#\media2\media2\obj\Debug\media2.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\media2\media2\obj\Debug\media2.csproj.CoreCompileInputs.cache
+C:\CursoC#\media2\media2\obj\Debug\media2.exe
+C:\CursoC#\media2\media2\obj\Debug\media2.pdb

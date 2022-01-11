@@ -1,0 +1,8 @@
+C:\CursoC#\salario\salario\bin\Debug\salario.exe.config
+C:\CursoC#\salario\salario\bin\Debug\salario.exe
+C:\CursoC#\salario\salario\bin\Debug\salario.pdb
+C:\CursoC#\salario\salario\obj\Debug\salario.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\salario\salario\obj\Debug\salario.csproj.CoreCompileInputs.cache
+C:\CursoC#\salario\salario\obj\Debug\salario.exe
+C:\CursoC#\salario\salario\obj\Debug\salario.pdb
+C:\CursoC#\salario\salario\obj\Debug\salario.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\CursoC#\areaCirculo\areaCirculo\bin\Debug\areaCirculo.exe.config
+C:\CursoC#\areaCirculo\areaCirculo\bin\Debug\areaCirculo.exe
+C:\CursoC#\areaCirculo\areaCirculo\bin\Debug\areaCirculo.pdb
+C:\CursoC#\areaCirculo\areaCirculo\obj\Debug\areaCirculo.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\areaCirculo\areaCirculo\obj\Debug\areaCirculo.csproj.CoreCompileInputs.cache
+C:\CursoC#\areaCirculo\areaCirculo\obj\Debug\areaCirculo.exe
+C:\CursoC#\areaCirculo\areaCirculo\obj\Debug\areaCirculo.pdb

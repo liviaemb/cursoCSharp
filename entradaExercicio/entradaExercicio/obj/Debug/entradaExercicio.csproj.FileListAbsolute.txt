@@ -1,0 +1,8 @@
+C:\CursoC#\entradaExercicio\entradaExercicio\bin\Debug\entradaExercicio.exe.config
+C:\CursoC#\entradaExercicio\entradaExercicio\bin\Debug\entradaExercicio.exe
+C:\CursoC#\entradaExercicio\entradaExercicio\bin\Debug\entradaExercicio.pdb
+C:\CursoC#\entradaExercicio\entradaExercicio\obj\Debug\entradaExercicio.csproj.AssemblyReference.cache
+C:\CursoC#\entradaExercicio\entradaExercicio\obj\Debug\entradaExercicio.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\entradaExercicio\entradaExercicio\obj\Debug\entradaExercicio.csproj.CoreCompileInputs.cache
+C:\CursoC#\entradaExercicio\entradaExercicio\obj\Debug\entradaExercicio.exe
+C:\CursoC#\entradaExercicio\entradaExercicio\obj\Debug\entradaExercicio.pdb

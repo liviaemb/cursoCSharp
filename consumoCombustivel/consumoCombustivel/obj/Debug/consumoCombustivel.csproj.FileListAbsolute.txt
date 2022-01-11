@@ -1,0 +1,8 @@
+C:\CursoC#\consumoCombustivel\consumoCombustivel\bin\Debug\consumoCombustivel.exe.config
+C:\CursoC#\consumoCombustivel\consumoCombustivel\bin\Debug\consumoCombustivel.exe
+C:\CursoC#\consumoCombustivel\consumoCombustivel\bin\Debug\consumoCombustivel.pdb
+C:\CursoC#\consumoCombustivel\consumoCombustivel\obj\Debug\consumoCombustivel.csproj.AssemblyReference.cache
+C:\CursoC#\consumoCombustivel\consumoCombustivel\obj\Debug\consumoCombustivel.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\consumoCombustivel\consumoCombustivel\obj\Debug\consumoCombustivel.csproj.CoreCompileInputs.cache
+C:\CursoC#\consumoCombustivel\consumoCombustivel\obj\Debug\consumoCombustivel.exe
+C:\CursoC#\consumoCombustivel\consumoCombustivel\obj\Debug\consumoCombustivel.pdb

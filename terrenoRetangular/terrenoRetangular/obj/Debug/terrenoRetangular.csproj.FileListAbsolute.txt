@@ -1,0 +1,8 @@
+C:\CursoC#\terrenoRetangular\terrenoRetangular\bin\Debug\terrenoRetangular.exe.config
+C:\CursoC#\terrenoRetangular\terrenoRetangular\bin\Debug\terrenoRetangular.exe
+C:\CursoC#\terrenoRetangular\terrenoRetangular\bin\Debug\terrenoRetangular.pdb
+C:\CursoC#\terrenoRetangular\terrenoRetangular\obj\Debug\terrenoRetangular.csproj.AssemblyReference.cache
+C:\CursoC#\terrenoRetangular\terrenoRetangular\obj\Debug\terrenoRetangular.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\terrenoRetangular\terrenoRetangular\obj\Debug\terrenoRetangular.csproj.CoreCompileInputs.cache
+C:\CursoC#\terrenoRetangular\terrenoRetangular\obj\Debug\terrenoRetangular.exe
+C:\CursoC#\terrenoRetangular\terrenoRetangular\obj\Debug\terrenoRetangular.pdb

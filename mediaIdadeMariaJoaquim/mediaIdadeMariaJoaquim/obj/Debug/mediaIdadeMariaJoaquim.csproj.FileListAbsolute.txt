@@ -1,0 +1,7 @@
+C:\CursoC#\mediaIdadeMariaJoaquim\mediaIdadeMariaJoaquim\bin\Debug\mediaIdadeMariaJoaquim.exe.config
+C:\CursoC#\mediaIdadeMariaJoaquim\mediaIdadeMariaJoaquim\bin\Debug\mediaIdadeMariaJoaquim.exe
+C:\CursoC#\mediaIdadeMariaJoaquim\mediaIdadeMariaJoaquim\bin\Debug\mediaIdadeMariaJoaquim.pdb
+C:\CursoC#\mediaIdadeMariaJoaquim\mediaIdadeMariaJoaquim\obj\Debug\mediaIdadeMariaJoaquim.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\mediaIdadeMariaJoaquim\mediaIdadeMariaJoaquim\obj\Debug\mediaIdadeMariaJoaquim.csproj.CoreCompileInputs.cache
+C:\CursoC#\mediaIdadeMariaJoaquim\mediaIdadeMariaJoaquim\obj\Debug\mediaIdadeMariaJoaquim.exe
+C:\CursoC#\mediaIdadeMariaJoaquim\mediaIdadeMariaJoaquim\obj\Debug\mediaIdadeMariaJoaquim.pdb

@@ -1,0 +1,8 @@
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\obj\Debug\distanciaDoisPontos.csproj.AssemblyReference.cache
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\obj\Debug\distanciaDoisPontos.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\obj\Debug\distanciaDoisPontos.csproj.CoreCompileInputs.cache
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\bin\Debug\distanciaDoisPontos.exe.config
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\bin\Debug\distanciaDoisPontos.exe
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\bin\Debug\distanciaDoisPontos.pdb
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\obj\Debug\distanciaDoisPontos.exe
+C:\CursoC#\distanciaDoisPontos\distanciaDoisPontos\obj\Debug\distanciaDoisPontos.pdb

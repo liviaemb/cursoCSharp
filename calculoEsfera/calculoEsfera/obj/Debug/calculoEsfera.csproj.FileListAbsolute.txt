@@ -1,0 +1,8 @@
+C:\CursoC#\calculoEsfera\calculoEsfera\bin\Debug\calculoEsfera.exe.config
+C:\CursoC#\calculoEsfera\calculoEsfera\bin\Debug\calculoEsfera.exe
+C:\CursoC#\calculoEsfera\calculoEsfera\bin\Debug\calculoEsfera.pdb
+C:\CursoC#\calculoEsfera\calculoEsfera\obj\Debug\calculoEsfera.csproj.AssemblyReference.cache
+C:\CursoC#\calculoEsfera\calculoEsfera\obj\Debug\calculoEsfera.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\calculoEsfera\calculoEsfera\obj\Debug\calculoEsfera.csproj.CoreCompileInputs.cache
+C:\CursoC#\calculoEsfera\calculoEsfera\obj\Debug\calculoEsfera.exe
+C:\CursoC#\calculoEsfera\calculoEsfera\obj\Debug\calculoEsfera.pdb

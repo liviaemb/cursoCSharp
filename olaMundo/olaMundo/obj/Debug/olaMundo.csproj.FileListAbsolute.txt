@@ -1,0 +1,8 @@
+C:\CursoC#\olaMundo\olaMundo\bin\Debug\olaMundo.exe.config
+C:\CursoC#\olaMundo\olaMundo\bin\Debug\olaMundo.exe
+C:\CursoC#\olaMundo\olaMundo\bin\Debug\olaMundo.pdb
+C:\CursoC#\olaMundo\olaMundo\obj\Debug\olaMundo.csproj.AssemblyReference.cache
+C:\CursoC#\olaMundo\olaMundo\obj\Debug\olaMundo.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\olaMundo\olaMundo\obj\Debug\olaMundo.csproj.CoreCompileInputs.cache
+C:\CursoC#\olaMundo\olaMundo\obj\Debug\olaMundo.exe
+C:\CursoC#\olaMundo\olaMundo\obj\Debug\olaMundo.pdb

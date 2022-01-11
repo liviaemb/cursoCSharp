@@ -1,0 +1,8 @@
+C:\CursoC#\calculoSimples\calculoSimples\bin\Debug\calculoSimples.exe.config
+C:\CursoC#\calculoSimples\calculoSimples\bin\Debug\calculoSimples.exe
+C:\CursoC#\calculoSimples\calculoSimples\bin\Debug\calculoSimples.pdb
+C:\CursoC#\calculoSimples\calculoSimples\obj\Debug\calculoSimples.csproj.AssemblyReference.cache
+C:\CursoC#\calculoSimples\calculoSimples\obj\Debug\calculoSimples.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\calculoSimples\calculoSimples\obj\Debug\calculoSimples.csproj.CoreCompileInputs.cache
+C:\CursoC#\calculoSimples\calculoSimples\obj\Debug\calculoSimples.exe
+C:\CursoC#\calculoSimples\calculoSimples\obj\Debug\calculoSimples.pdb

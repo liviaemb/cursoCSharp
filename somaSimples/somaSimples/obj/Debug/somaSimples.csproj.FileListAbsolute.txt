@@ -1,0 +1,8 @@
+C:\CursoC#\somaSimples\somaSimples\bin\Debug\somaSimples.exe.config
+C:\CursoC#\somaSimples\somaSimples\bin\Debug\somaSimples.exe
+C:\CursoC#\somaSimples\somaSimples\bin\Debug\somaSimples.pdb
+C:\CursoC#\somaSimples\somaSimples\obj\Debug\somaSimples.csproj.AssemblyReference.cache
+C:\CursoC#\somaSimples\somaSimples\obj\Debug\somaSimples.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\somaSimples\somaSimples\obj\Debug\somaSimples.csproj.CoreCompileInputs.cache
+C:\CursoC#\somaSimples\somaSimples\obj\Debug\somaSimples.exe
+C:\CursoC#\somaSimples\somaSimples\obj\Debug\somaSimples.pdb

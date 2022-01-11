@@ -1,0 +1,8 @@
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\bin\Debug\basicBeeCrowd.exe.config
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\bin\Debug\basicBeeCrowd.exe
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\bin\Debug\basicBeeCrowd.pdb
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\obj\Debug\basicBeeCrowd.csproj.AssemblyReference.cache
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\obj\Debug\basicBeeCrowd.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\obj\Debug\basicBeeCrowd.csproj.CoreCompileInputs.cache
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\obj\Debug\basicBeeCrowd.exe
+C:\CursoC#\basicBeeCrowd\basicBeeCrowd\obj\Debug\basicBeeCrowd.pdb

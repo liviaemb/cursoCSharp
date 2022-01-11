@@ -1,0 +1,8 @@
+C:\CursoC#\produtoSimples\produtoSimples\bin\Debug\produtoSimples.exe.config
+C:\CursoC#\produtoSimples\produtoSimples\bin\Debug\produtoSimples.exe
+C:\CursoC#\produtoSimples\produtoSimples\bin\Debug\produtoSimples.pdb
+C:\CursoC#\produtoSimples\produtoSimples\obj\Debug\produtoSimples.csproj.AssemblyReference.cache
+C:\CursoC#\produtoSimples\produtoSimples\obj\Debug\produtoSimples.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\produtoSimples\produtoSimples\obj\Debug\produtoSimples.csproj.CoreCompileInputs.cache
+C:\CursoC#\produtoSimples\produtoSimples\obj\Debug\produtoSimples.exe
+C:\CursoC#\produtoSimples\produtoSimples\obj\Debug\produtoSimples.pdb

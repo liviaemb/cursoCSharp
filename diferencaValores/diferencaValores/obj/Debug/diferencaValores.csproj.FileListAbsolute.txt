@@ -1,0 +1,7 @@
+C:\CursoC#\diferencaValores\diferencaValores\bin\Debug\diferencaValores.exe.config
+C:\CursoC#\diferencaValores\diferencaValores\bin\Debug\diferencaValores.exe
+C:\CursoC#\diferencaValores\diferencaValores\bin\Debug\diferencaValores.pdb
+C:\CursoC#\diferencaValores\diferencaValores\obj\Debug\diferencaValores.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\diferencaValores\diferencaValores\obj\Debug\diferencaValores.csproj.CoreCompileInputs.cache
+C:\CursoC#\diferencaValores\diferencaValores\obj\Debug\diferencaValores.exe
+C:\CursoC#\diferencaValores\diferencaValores\obj\Debug\diferencaValores.pdb
