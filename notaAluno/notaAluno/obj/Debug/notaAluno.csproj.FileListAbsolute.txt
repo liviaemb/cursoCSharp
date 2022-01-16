@@ -1,0 +1,8 @@
+C:\CursoC#\notaAluno\notaAluno\bin\Debug\notaAluno.exe.config
+C:\CursoC#\notaAluno\notaAluno\bin\Debug\notaAluno.exe
+C:\CursoC#\notaAluno\notaAluno\bin\Debug\notaAluno.pdb
+C:\CursoC#\notaAluno\notaAluno\obj\Debug\notaAluno.csproj.AssemblyReference.cache
+C:\CursoC#\notaAluno\notaAluno\obj\Debug\notaAluno.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\notaAluno\notaAluno\obj\Debug\notaAluno.csproj.CoreCompileInputs.cache
+C:\CursoC#\notaAluno\notaAluno\obj\Debug\notaAluno.exe
+C:\CursoC#\notaAluno\notaAluno\obj\Debug\notaAluno.pdb

@@ -1,0 +1,8 @@
+C:\CursoC#\calculadoraLanche\calculadoraLanche\obj\Debug\calculadoraLanche.csproj.AssemblyReference.cache
+C:\CursoC#\calculadoraLanche\calculadoraLanche\obj\Debug\calculadoraLanche.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\calculadoraLanche\calculadoraLanche\obj\Debug\calculadoraLanche.csproj.CoreCompileInputs.cache
+C:\CursoC#\calculadoraLanche\calculadoraLanche\bin\Debug\calculadoraLanche.exe.config
+C:\CursoC#\calculadoraLanche\calculadoraLanche\bin\Debug\calculadoraLanche.exe
+C:\CursoC#\calculadoraLanche\calculadoraLanche\bin\Debug\calculadoraLanche.pdb
+C:\CursoC#\calculadoraLanche\calculadoraLanche\obj\Debug\calculadoraLanche.exe
+C:\CursoC#\calculadoraLanche\calculadoraLanche\obj\Debug\calculadoraLanche.pdb

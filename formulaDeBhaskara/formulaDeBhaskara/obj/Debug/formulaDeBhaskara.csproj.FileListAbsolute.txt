@@ -1,0 +1,7 @@
+C:\CursoC#\formulaDeBhaskara\formulaDeBhaskara\bin\Debug\formulaDeBhaskara.exe.config
+C:\CursoC#\formulaDeBhaskara\formulaDeBhaskara\bin\Debug\formulaDeBhaskara.exe
+C:\CursoC#\formulaDeBhaskara\formulaDeBhaskara\bin\Debug\formulaDeBhaskara.pdb
+C:\CursoC#\formulaDeBhaskara\formulaDeBhaskara\obj\Debug\formulaDeBhaskara.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\formulaDeBhaskara\formulaDeBhaskara\obj\Debug\formulaDeBhaskara.csproj.CoreCompileInputs.cache
+C:\CursoC#\formulaDeBhaskara\formulaDeBhaskara\obj\Debug\formulaDeBhaskara.exe
+C:\CursoC#\formulaDeBhaskara\formulaDeBhaskara\obj\Debug\formulaDeBhaskara.pdb

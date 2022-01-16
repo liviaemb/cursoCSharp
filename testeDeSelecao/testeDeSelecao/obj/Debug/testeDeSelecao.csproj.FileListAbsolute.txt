@@ -1,0 +1,8 @@
+C:\CursoC#\testeDeSelecao\testeDeSelecao\bin\Debug\testeDeSelecao.exe.config
+C:\CursoC#\testeDeSelecao\testeDeSelecao\bin\Debug\testeDeSelecao.exe
+C:\CursoC#\testeDeSelecao\testeDeSelecao\bin\Debug\testeDeSelecao.pdb
+C:\CursoC#\testeDeSelecao\testeDeSelecao\obj\Debug\testeDeSelecao.csproj.AssemblyReference.cache
+C:\CursoC#\testeDeSelecao\testeDeSelecao\obj\Debug\testeDeSelecao.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\testeDeSelecao\testeDeSelecao\obj\Debug\testeDeSelecao.csproj.CoreCompileInputs.cache
+C:\CursoC#\testeDeSelecao\testeDeSelecao\obj\Debug\testeDeSelecao.exe
+C:\CursoC#\testeDeSelecao\testeDeSelecao\obj\Debug\testeDeSelecao.pdb

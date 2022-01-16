@@ -1,0 +1,7 @@
+C:\CursoC#\menorNumeroInteiro\menorNumeroInteiro\bin\Debug\menorNumeroInteiro.exe.config
+C:\CursoC#\menorNumeroInteiro\menorNumeroInteiro\bin\Debug\menorNumeroInteiro.exe
+C:\CursoC#\menorNumeroInteiro\menorNumeroInteiro\bin\Debug\menorNumeroInteiro.pdb
+C:\CursoC#\menorNumeroInteiro\menorNumeroInteiro\obj\Debug\menorNumeroInteiro.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\menorNumeroInteiro\menorNumeroInteiro\obj\Debug\menorNumeroInteiro.csproj.CoreCompileInputs.cache
+C:\CursoC#\menorNumeroInteiro\menorNumeroInteiro\obj\Debug\menorNumeroInteiro.exe
+C:\CursoC#\menorNumeroInteiro\menorNumeroInteiro\obj\Debug\menorNumeroInteiro.pdb

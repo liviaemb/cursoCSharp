@@ -1,0 +1,7 @@
+C:\CursoC#\diaDaSemanaSC\diaDaSemanaSC\obj\Debug\diaDaSemanaSC.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\diaDaSemanaSC\diaDaSemanaSC\obj\Debug\diaDaSemanaSC.csproj.CoreCompileInputs.cache
+C:\CursoC#\diaDaSemanaSC\diaDaSemanaSC\bin\Debug\diaDaSemanaSC.exe.config
+C:\CursoC#\diaDaSemanaSC\diaDaSemanaSC\bin\Debug\diaDaSemanaSC.exe
+C:\CursoC#\diaDaSemanaSC\diaDaSemanaSC\bin\Debug\diaDaSemanaSC.pdb
+C:\CursoC#\diaDaSemanaSC\diaDaSemanaSC\obj\Debug\diaDaSemanaSC.exe
+C:\CursoC#\diaDaSemanaSC\diaDaSemanaSC\obj\Debug\diaDaSemanaSC.pdb

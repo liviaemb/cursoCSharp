@@ -1,0 +1,8 @@
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\bin\Debug\aumentoDeSalario.exe.config
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\bin\Debug\aumentoDeSalario.exe
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\bin\Debug\aumentoDeSalario.pdb
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\obj\Debug\aumentoDeSalario.csproj.AssemblyReference.cache
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\obj\Debug\aumentoDeSalario.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\obj\Debug\aumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\obj\Debug\aumentoDeSalario.exe
+C:\CursoC#\aumentoDeSalario\aumentoDeSalario\obj\Debug\aumentoDeSalario.pdb

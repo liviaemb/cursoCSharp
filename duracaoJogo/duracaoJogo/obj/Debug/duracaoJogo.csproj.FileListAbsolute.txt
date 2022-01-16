@@ -1,0 +1,8 @@
+C:\CursoC#\duracaoJogo\duracaoJogo\bin\Debug\duracaoJogo.exe.config
+C:\CursoC#\duracaoJogo\duracaoJogo\bin\Debug\duracaoJogo.exe
+C:\CursoC#\duracaoJogo\duracaoJogo\bin\Debug\duracaoJogo.pdb
+C:\CursoC#\duracaoJogo\duracaoJogo\obj\Debug\duracaoJogo.csproj.AssemblyReference.cache
+C:\CursoC#\duracaoJogo\duracaoJogo\obj\Debug\duracaoJogo.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\duracaoJogo\duracaoJogo\obj\Debug\duracaoJogo.csproj.CoreCompileInputs.cache
+C:\CursoC#\duracaoJogo\duracaoJogo\obj\Debug\duracaoJogo.exe
+C:\CursoC#\duracaoJogo\duracaoJogo\obj\Debug\duracaoJogo.pdb

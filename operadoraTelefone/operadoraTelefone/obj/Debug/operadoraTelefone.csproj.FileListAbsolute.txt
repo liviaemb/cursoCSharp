@@ -1,0 +1,8 @@
+C:\CursoC#\operadoraTelefone\operadoraTelefone\bin\Debug\operadoraTelefone.exe.config
+C:\CursoC#\operadoraTelefone\operadoraTelefone\bin\Debug\operadoraTelefone.exe
+C:\CursoC#\operadoraTelefone\operadoraTelefone\bin\Debug\operadoraTelefone.pdb
+C:\CursoC#\operadoraTelefone\operadoraTelefone\obj\Debug\operadoraTelefone.csproj.AssemblyReference.cache
+C:\CursoC#\operadoraTelefone\operadoraTelefone\obj\Debug\operadoraTelefone.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\operadoraTelefone\operadoraTelefone\obj\Debug\operadoraTelefone.csproj.CoreCompileInputs.cache
+C:\CursoC#\operadoraTelefone\operadoraTelefone\obj\Debug\operadoraTelefone.exe
+C:\CursoC#\operadoraTelefone\operadoraTelefone\obj\Debug\operadoraTelefone.pdb
