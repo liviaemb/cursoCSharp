@@ -1,0 +1,8 @@
+C:\CursoC#\vetorNumeros\vetorNumeros\bin\Debug\vetorNumeros.exe.config
+C:\CursoC#\vetorNumeros\vetorNumeros\bin\Debug\vetorNumeros.exe
+C:\CursoC#\vetorNumeros\vetorNumeros\bin\Debug\vetorNumeros.pdb
+C:\CursoC#\vetorNumeros\vetorNumeros\obj\Debug\vetorNumeros.csproj.AssemblyReference.cache
+C:\CursoC#\vetorNumeros\vetorNumeros\obj\Debug\vetorNumeros.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\vetorNumeros\vetorNumeros\obj\Debug\vetorNumeros.csproj.CoreCompileInputs.cache
+C:\CursoC#\vetorNumeros\vetorNumeros\obj\Debug\vetorNumeros.exe
+C:\CursoC#\vetorNumeros\vetorNumeros\obj\Debug\vetorNumeros.pdb

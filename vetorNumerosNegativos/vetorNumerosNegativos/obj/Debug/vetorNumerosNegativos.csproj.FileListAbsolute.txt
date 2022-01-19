@@ -1,0 +1,8 @@
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\bin\Debug\vetorNumerosNegativos.exe.config
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\bin\Debug\vetorNumerosNegativos.exe
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\bin\Debug\vetorNumerosNegativos.pdb
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\obj\Debug\vetorNumerosNegativos.csproj.AssemblyReference.cache
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\obj\Debug\vetorNumerosNegativos.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\obj\Debug\vetorNumerosNegativos.csproj.CoreCompileInputs.cache
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\obj\Debug\vetorNumerosNegativos.exe
+C:\CursoC#\vetorNumerosNegativos\vetorNumerosNegativos\obj\Debug\vetorNumerosNegativos.pdb

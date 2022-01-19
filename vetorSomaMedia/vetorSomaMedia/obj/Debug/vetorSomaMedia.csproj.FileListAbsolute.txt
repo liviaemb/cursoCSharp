@@ -1,0 +1,8 @@
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\bin\Debug\vetorSomaMedia.exe.config
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\bin\Debug\vetorSomaMedia.exe
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\bin\Debug\vetorSomaMedia.pdb
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\obj\Debug\vetorSomaMedia.csproj.AssemblyReference.cache
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\obj\Debug\vetorSomaMedia.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\obj\Debug\vetorSomaMedia.csproj.CoreCompileInputs.cache
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\obj\Debug\vetorSomaMedia.exe
+C:\CursoC#\vetorSomaMedia\vetorSomaMedia\obj\Debug\vetorSomaMedia.pdb

@@ -1,0 +1,8 @@
+C:\CursoC#\vetorTabela\vetorTabela\bin\Debug\vetorTabela.exe.config
+C:\CursoC#\vetorTabela\vetorTabela\bin\Debug\vetorTabela.exe
+C:\CursoC#\vetorTabela\vetorTabela\bin\Debug\vetorTabela.pdb
+C:\CursoC#\vetorTabela\vetorTabela\obj\Debug\vetorTabela.csproj.AssemblyReference.cache
+C:\CursoC#\vetorTabela\vetorTabela\obj\Debug\vetorTabela.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\vetorTabela\vetorTabela\obj\Debug\vetorTabela.csproj.CoreCompileInputs.cache
+C:\CursoC#\vetorTabela\vetorTabela\obj\Debug\vetorTabela.exe
+C:\CursoC#\vetorTabela\vetorTabela\obj\Debug\vetorTabela.pdb
