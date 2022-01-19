@@ -1,0 +1,8 @@
+C:\CursoC#\senhaValida\senhaValida\bin\Debug\senhaValida.exe.config
+C:\CursoC#\senhaValida\senhaValida\bin\Debug\senhaValida.exe
+C:\CursoC#\senhaValida\senhaValida\bin\Debug\senhaValida.pdb
+C:\CursoC#\senhaValida\senhaValida\obj\Debug\senhaValida.csproj.AssemblyReference.cache
+C:\CursoC#\senhaValida\senhaValida\obj\Debug\senhaValida.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\senhaValida\senhaValida\obj\Debug\senhaValida.csproj.CoreCompileInputs.cache
+C:\CursoC#\senhaValida\senhaValida\obj\Debug\senhaValida.exe
+C:\CursoC#\senhaValida\senhaValida\obj\Debug\senhaValida.pdb

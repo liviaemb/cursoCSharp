@@ -1,0 +1,8 @@
+C:\CursoC#\tabuada\tabuada\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\CursoC#\tabuada\tabuada\obj\Debug\tabuada.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\CursoC#\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\CursoC#\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\CursoC#\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\CursoC#\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\CursoC#\tabuada\tabuada\obj\Debug\tabuada.pdb

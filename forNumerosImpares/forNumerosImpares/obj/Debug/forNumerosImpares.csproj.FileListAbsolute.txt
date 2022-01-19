@@ -1,0 +1,8 @@
+C:\CursoC#\forNumerosImpares\forNumerosImpares\bin\Debug\forNumerosImpares.exe.config
+C:\CursoC#\forNumerosImpares\forNumerosImpares\bin\Debug\forNumerosImpares.exe
+C:\CursoC#\forNumerosImpares\forNumerosImpares\bin\Debug\forNumerosImpares.pdb
+C:\CursoC#\forNumerosImpares\forNumerosImpares\obj\Debug\forNumerosImpares.csproj.AssemblyReference.cache
+C:\CursoC#\forNumerosImpares\forNumerosImpares\obj\Debug\forNumerosImpares.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\forNumerosImpares\forNumerosImpares\obj\Debug\forNumerosImpares.csproj.CoreCompileInputs.cache
+C:\CursoC#\forNumerosImpares\forNumerosImpares\obj\Debug\forNumerosImpares.exe
+C:\CursoC#\forNumerosImpares\forNumerosImpares\obj\Debug\forNumerosImpares.pdb

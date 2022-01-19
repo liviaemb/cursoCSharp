@@ -1,0 +1,7 @@
+C:\CursoC#\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\tipoDeCombustivel.exe.config
+C:\CursoC#\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\tipoDeCombustivel.exe
+C:\CursoC#\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\tipoDeCombustivel.pdb
+C:\CursoC#\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\tipoDeCombustivel.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\tipoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\CursoC#\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\tipoDeCombustivel.exe
+C:\CursoC#\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\tipoDeCombustivel.pdb

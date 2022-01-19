@@ -1,0 +1,8 @@
+C:\CursoC#\doWhileSimNao\doWhileSimNao\bin\Debug\doWhileSimNao.exe.config
+C:\CursoC#\doWhileSimNao\doWhileSimNao\bin\Debug\doWhileSimNao.exe
+C:\CursoC#\doWhileSimNao\doWhileSimNao\bin\Debug\doWhileSimNao.pdb
+C:\CursoC#\doWhileSimNao\doWhileSimNao\obj\Debug\doWhileSimNao.csproj.AssemblyReference.cache
+C:\CursoC#\doWhileSimNao\doWhileSimNao\obj\Debug\doWhileSimNao.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\doWhileSimNao\doWhileSimNao\obj\Debug\doWhileSimNao.csproj.CoreCompileInputs.cache
+C:\CursoC#\doWhileSimNao\doWhileSimNao\obj\Debug\doWhileSimNao.exe
+C:\CursoC#\doWhileSimNao\doWhileSimNao\obj\Debug\doWhileSimNao.pdb

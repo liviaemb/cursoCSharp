@@ -1,0 +1,8 @@
+C:\CursoC#\enquantoInteiros\enquantoInteiros\bin\Debug\enquantoInteiros.exe.config
+C:\CursoC#\enquantoInteiros\enquantoInteiros\bin\Debug\enquantoInteiros.exe
+C:\CursoC#\enquantoInteiros\enquantoInteiros\bin\Debug\enquantoInteiros.pdb
+C:\CursoC#\enquantoInteiros\enquantoInteiros\obj\Debug\enquantoInteiros.csproj.AssemblyReference.cache
+C:\CursoC#\enquantoInteiros\enquantoInteiros\obj\Debug\enquantoInteiros.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\enquantoInteiros\enquantoInteiros\obj\Debug\enquantoInteiros.csproj.CoreCompileInputs.cache
+C:\CursoC#\enquantoInteiros\enquantoInteiros\obj\Debug\enquantoInteiros.exe
+C:\CursoC#\enquantoInteiros\enquantoInteiros\obj\Debug\enquantoInteiros.pdb

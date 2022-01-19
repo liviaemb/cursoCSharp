@@ -1,0 +1,7 @@
+C:\CursoC#\imparesConsecutivos\imparesConsecutivos\bin\Debug\imparesConsecutivos.exe.config
+C:\CursoC#\imparesConsecutivos\imparesConsecutivos\bin\Debug\imparesConsecutivos.exe
+C:\CursoC#\imparesConsecutivos\imparesConsecutivos\bin\Debug\imparesConsecutivos.pdb
+C:\CursoC#\imparesConsecutivos\imparesConsecutivos\obj\Debug\imparesConsecutivos.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\imparesConsecutivos\imparesConsecutivos\obj\Debug\imparesConsecutivos.csproj.CoreCompileInputs.cache
+C:\CursoC#\imparesConsecutivos\imparesConsecutivos\obj\Debug\imparesConsecutivos.exe
+C:\CursoC#\imparesConsecutivos\imparesConsecutivos\obj\Debug\imparesConsecutivos.pdb

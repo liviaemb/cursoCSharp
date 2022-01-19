@@ -1,0 +1,8 @@
+C:\CursoC#\xyWhile\xyWhile\bin\Debug\xyWhile.exe.config
+C:\CursoC#\xyWhile\xyWhile\bin\Debug\xyWhile.exe
+C:\CursoC#\xyWhile\xyWhile\bin\Debug\xyWhile.pdb
+C:\CursoC#\xyWhile\xyWhile\obj\Debug\xyWhile.csproj.AssemblyReference.cache
+C:\CursoC#\xyWhile\xyWhile\obj\Debug\xyWhile.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\xyWhile\xyWhile\obj\Debug\xyWhile.csproj.CoreCompileInputs.cache
+C:\CursoC#\xyWhile\xyWhile\obj\Debug\xyWhile.exe
+C:\CursoC#\xyWhile\xyWhile\obj\Debug\xyWhile.pdb

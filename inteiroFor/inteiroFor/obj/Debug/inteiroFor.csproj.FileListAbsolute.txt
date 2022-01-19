@@ -1,0 +1,7 @@
+C:\CursoC#\inteiroFor\inteiroFor\bin\Debug\inteiroFor.exe.config
+C:\CursoC#\inteiroFor\inteiroFor\bin\Debug\inteiroFor.exe
+C:\CursoC#\inteiroFor\inteiroFor\bin\Debug\inteiroFor.pdb
+C:\CursoC#\inteiroFor\inteiroFor\obj\Debug\inteiroFor.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\inteiroFor\inteiroFor\obj\Debug\inteiroFor.csproj.CoreCompileInputs.cache
+C:\CursoC#\inteiroFor\inteiroFor\obj\Debug\inteiroFor.exe
+C:\CursoC#\inteiroFor\inteiroFor\obj\Debug\inteiroFor.pdb

@@ -1,0 +1,7 @@
+C:\CursoC#\notaValida\notaValida\bin\Debug\notaValida.exe.config
+C:\CursoC#\notaValida\notaValida\bin\Debug\notaValida.exe
+C:\CursoC#\notaValida\notaValida\bin\Debug\notaValida.pdb
+C:\CursoC#\notaValida\notaValida\obj\Debug\notaValida.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\notaValida\notaValida\obj\Debug\notaValida.csproj.CoreCompileInputs.cache
+C:\CursoC#\notaValida\notaValida\obj\Debug\notaValida.exe
+C:\CursoC#\notaValida\notaValida\obj\Debug\notaValida.pdb

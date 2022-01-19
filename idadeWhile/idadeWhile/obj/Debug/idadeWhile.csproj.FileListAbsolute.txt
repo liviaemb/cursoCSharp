@@ -1,0 +1,7 @@
+C:\CursoC#\idadeWhile\idadeWhile\bin\Debug\idadeWhile.exe.config
+C:\CursoC#\idadeWhile\idadeWhile\bin\Debug\idadeWhile.exe
+C:\CursoC#\idadeWhile\idadeWhile\bin\Debug\idadeWhile.pdb
+C:\CursoC#\idadeWhile\idadeWhile\obj\Debug\idadeWhile.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\idadeWhile\idadeWhile\obj\Debug\idadeWhile.csproj.CoreCompileInputs.cache
+C:\CursoC#\idadeWhile\idadeWhile\obj\Debug\idadeWhile.exe
+C:\CursoC#\idadeWhile\idadeWhile\obj\Debug\idadeWhile.pdb
