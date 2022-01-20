@@ -1,0 +1,7 @@
+C:\CursoC#\matrizSomaLinhas\matrizSomaLinhas\bin\Debug\matrizSomaLinhas.exe.config
+C:\CursoC#\matrizSomaLinhas\matrizSomaLinhas\bin\Debug\matrizSomaLinhas.exe
+C:\CursoC#\matrizSomaLinhas\matrizSomaLinhas\bin\Debug\matrizSomaLinhas.pdb
+C:\CursoC#\matrizSomaLinhas\matrizSomaLinhas\obj\Debug\matrizSomaLinhas.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\matrizSomaLinhas\matrizSomaLinhas\obj\Debug\matrizSomaLinhas.csproj.CoreCompileInputs.cache
+C:\CursoC#\matrizSomaLinhas\matrizSomaLinhas\obj\Debug\matrizSomaLinhas.exe
+C:\CursoC#\matrizSomaLinhas\matrizSomaLinhas\obj\Debug\matrizSomaLinhas.pdb

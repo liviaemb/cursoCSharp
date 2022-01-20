@@ -1,0 +1,8 @@
+C:\CursoC#\matrizNumeros\matrizNumeros\bin\Debug\matrizNumeros.exe.config
+C:\CursoC#\matrizNumeros\matrizNumeros\bin\Debug\matrizNumeros.exe
+C:\CursoC#\matrizNumeros\matrizNumeros\bin\Debug\matrizNumeros.pdb
+C:\CursoC#\matrizNumeros\matrizNumeros\obj\Debug\matrizNumeros.csproj.AssemblyReference.cache
+C:\CursoC#\matrizNumeros\matrizNumeros\obj\Debug\matrizNumeros.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\matrizNumeros\matrizNumeros\obj\Debug\matrizNumeros.csproj.CoreCompileInputs.cache
+C:\CursoC#\matrizNumeros\matrizNumeros\obj\Debug\matrizNumeros.exe
+C:\CursoC#\matrizNumeros\matrizNumeros\obj\Debug\matrizNumeros.pdb

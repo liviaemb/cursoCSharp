@@ -1,0 +1,8 @@
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\obj\Debug\matrizDiagonalNegativos.csproj.AssemblyReference.cache
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\obj\Debug\matrizDiagonalNegativos.csproj.SuggestedBindingRedirects.cache
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\obj\Debug\matrizDiagonalNegativos.csproj.CoreCompileInputs.cache
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\bin\Debug\matrizDiagonalNegativos.exe.config
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\bin\Debug\matrizDiagonalNegativos.exe
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\bin\Debug\matrizDiagonalNegativos.pdb
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\obj\Debug\matrizDiagonalNegativos.exe
+C:\CursoC#\matrizDiagonalNegativos\matrizDiagonalNegativos\obj\Debug\matrizDiagonalNegativos.pdb
